@@ -12,7 +12,12 @@
   background-color: #F5F5F5;
       }
 
-.nav-bar {background-color: #fe80df;
-          color: white;
+.nav-bar {
+  background-color: #f5f5f5;
+  color: white;
          }
+
+li {
+  display: inline;
+}
   
