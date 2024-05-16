@@ -48,6 +48,13 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 30%;
+}
+
+.about {
+    font-family: Arial, Helvetica, sans-serif; }
+
+li {
+  line-height: 20px
 }
   
